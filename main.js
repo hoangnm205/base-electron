@@ -1,7 +1,7 @@
 require('./app/routes/route');
 
-const { electron, powerSaveBlocker } = require('electron')
-
+const { powerSaveBlocker } = require('electron')
+const electron = require('electron')
 const isDev = require("electron-is-dev");
 const database = require('./app/lib/database');
 const autoUpdater = require('./app/config/autoupdater');

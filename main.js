@@ -12,7 +12,6 @@ const app = electron.app;
 const Menu = electron.Menu;
 const MenuItem = electron.MenuItem;
 const Tray = electron.Tray;
-// initialize ejs parser
 
 // Module to create native browser window.
 const BrowserWindow = electron.BrowserWindow;

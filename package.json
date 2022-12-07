@@ -28,7 +28,7 @@
     "ejs": "^2.5.6",
     "electron-is-dev": "^0.1.2",
     "electron-updater": "^4.0.0",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "mysql": "^2.13.0"
   },
   "build": {
